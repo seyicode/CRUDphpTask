@@ -1,7 +1,9 @@
 Complete Create, Read, Update, Delete (CRUD) in PHP & MySQL
 ========
 
-A complete CRUD system to add, edit, delete and view using PHP and MySQL. Login page alsin include  system has login and register feature as well.
+A complete task  to add, edit, delete and view message using PHP and MySQL as backend. Login page also include  system  login and register feature as well as stated in the task.
+
+This runs perfectly on my machine, if you have any issue running it let me know and we can work it togeter, its as simple as it is, the only issue I think one might face is connecting to db which varies depending on what you have on your computer.
 
 
 At first, users need to register and login. After successful login, users can add their product data. Users can see only those data that they have added.
